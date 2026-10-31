@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"007 — The World of Bond"},{"path":"/films","title":"The Films"},{"path":"/films/:slug","title":"Film Detail"},{"path":"/vehicles","title":"The Vehicles"},{"path":"/vehicles/:slug","title":"Vehicle Detail"},{"path":"/experiences","title":"Experiences"},{"path":"/journal","title":"Dispatches"},{"path":"/journal/:slug","title":"Story Detail"}]}
